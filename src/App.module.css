@@ -7,3 +7,24 @@
   margin: 20px auto;
   padding: 0 20px;
 }
+.container_last {
+  margin-top: 15px 0;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  overflow-x: hidden;
+}
+.container_viewer {
+  background-color: #fff;
+  max-width: 1000px;
+  margin: 20px auto;
+  padding: 0 20px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+}
