@@ -1,0 +1,9 @@
+.information {
+  color: #f9d420;
+  text-align: center;
+}
+.container_form {
+  max-width: 1000px;
+  margin: 20px auto;
+  padding: 0 20px;
+}
